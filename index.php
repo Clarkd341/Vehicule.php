@@ -1,0 +1,6 @@
+<?php
+
+include("./autoleader.php");
+
+
+?>
